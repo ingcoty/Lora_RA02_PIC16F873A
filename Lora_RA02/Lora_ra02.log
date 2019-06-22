@@ -1,0 +1,14 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F873A -DL -O11111114 -fo4 -N"\\VBOXSVR\Compartida\Lora_RA02\Lora_ra02.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"\\VBOXSVR\Compartida\Lora_RA02\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"\\VBOXSVR\Compartida\Lora_RA02\" "Lora_ra02.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_SPI_c345.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 176 [bytes], Available ROM: 4096 [bytes]	 
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 123	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	122	Compilation Started	Lora_ra02.c
+warning: 180	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	Lora_ra02.c
+diagnostics: 196	123	Compiled Successfully	Lora_ra02.c
+diagnostics: 0	127	All files Compiled in 109 ms	 
+hint: 0	1144	Used RAM (bytes): 151 (86%)  Free RAM (bytes): 25 (14%)	Used RAM (bytes): 151 (86%)  Free RAM (bytes): 25 (14%)
+hint: 0	1144	Used ROM (program words): 841 (21%)  Free ROM (program words): 3255 (79%)	Used ROM (program words): 841 (21%)  Free ROM (program words): 3255 (79%)
+diagnostics: 0	125	Project Linked Successfully	Lora_ra02.mcppi
+diagnostics: 0	128	Linked in 78 ms	 
+diagnostics: 0	129	Project 'Lora_ra02.mcppi' completed: 375 ms	 
+diagnostics: 0	103	Finished successfully: 30 mar 2019, 09:23:44	Lora_ra02.mcppi
